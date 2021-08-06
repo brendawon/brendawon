@@ -27,7 +27,7 @@ I'm a Registered Dietitian 👩🏻‍⚕️ and Full-stack Software Engineer �
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git badge"/>
   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge" alt="Postman badge"/>
   <img src="https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" alt="Mocha badge"/>
-  <img src="https://img.shields.io/badge/-jasmine-8A4182?logo=jasmine&logoColor=white&style=for-the-badge" alt="Jasmine badge"/>
+  <img src="https://img.shields.io/badge/-Jasmine-8A4182?logo=jasmine&logoColor=white&style=for-the-badge" alt="Jasmine badge"/>
 </p>
 
 ## Extras
