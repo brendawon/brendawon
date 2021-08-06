@@ -2,7 +2,7 @@
 
 I'm a Registered Dietitian 👩🏻‍⚕️ and Full-stack Software Engineer 👩🏻‍💻 While working in healthcare during the pandemic, I needed something to occupy my mind after-hours. That became coding time. I started very gradually learning JavaScript from The Complete Web Development Bootcamp by The App Brewery. After seeing that I was able to create some cool things all on my computer, I made the difficult decision to take a break from healthcare to to study coding full time so I could one day address the inefficiencies I experienced and help healthcare workers use their time more efficiently to better serve patients.
 
-### Technologies
+## Technologies
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML badge"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS badge"/>
@@ -30,7 +30,7 @@ I'm a Registered Dietitian 👩🏻‍⚕️ and Full-stack Software Engineer �
   <img src="https://img.shields.io/badge/-jasmine-8A4182?logo=jasmine&logoColor=white&style=for-the-badge" alt="Jasmine badge"/>
 </p>
 
-### Extras
+## Extras
 - 🎓 The Grace Hopper Program at Fullstack Academy
 - 🌱 I’m currently learning Algorithms, Data Structures, and OOP
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/brenda-wong-rd/)
