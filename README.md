@@ -1,6 +1,29 @@
 ### Hey, I'm Brenda ⭐
 
-I'm a Registered Dietitian 👩🏻‍⚕️ and Full-stack Software Engineer 👩🏻‍💻 While working in healthcare during the pandemic, I needed something to occupy my mind after-hours. That became coding time. I started very gradually learning JavaScript from The Complete Web Development Bootcamp by The App Brewery. After seeing that I was able to create some cool things all on my computer, I began to seriously consider a career pivot. I made the difficult decision to take a break from healthcare to to study coding full time so I could one day address the inefficiencies I experienced and help healthcare workers use their time more efficiently to better serve patients.
+I'm a Registered Dietitian 👩🏻‍⚕️ and Full-stack Software Engineer 👩🏻‍💻 While working in healthcare during the pandemic, I needed something to occupy my mind after-hours. That became coding time. I started very gradually learning JavaScript from The Complete Web Development Bootcamp by The App Brewery. After seeing that I was able to create some cool things all on my computer, I made the difficult decision to take a break from healthcare to to study coding full time so I could one day address the inefficiencies I experienced and help healthcare workers use their time more efficiently to better serve patients.
+
+## Tech Stack
+<p>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML badge"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS badge"/>
+<img src="https://img.shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=for-the-badge" alt="JavaScript badge"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=for-the-badge" alt="Node.js badge"/>
+<img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="NPM badge"/>
+<img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express badge"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL badge"/>
+<img src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge" alt="Sequelize badge"/>  
+<img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React badge"/>
+<img src="https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=for-the-badge" alt="React Native"/>
+<img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="Redux badge"/>
+<img src="https://img.shields.io/badge/-Firebase-059BE5?logo=firebase&logoColor=FFCA28&style=for-the-badge" alt="Firebase"/>
+<img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" alt="Markdown badge"/>
+<img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" alt="Heroku badge"/>
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git badge"/>
+<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge" alt="Postman badge"/>
+<img src="https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" alt="Mocha badge"/>
+<img src="https://img.shields.io/badge/-jasmine-8A4182?logo=jasmine&logoColor=white&style=for-the-badge" alt="Jasmine badge"/>
+</p>
+
 
 ## Extras
 - 🎓 The Grace Hopper Program at Fullstack Academy
