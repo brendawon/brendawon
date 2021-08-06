@@ -1,8 +1,8 @@
-### Hey, I'm Brenda ⭐
+## Hey, I'm Brenda ⭐
 
 I'm a Registered Dietitian 👩🏻‍⚕️ and Full-stack Software Engineer 👩🏻‍💻 While working in healthcare during the pandemic, I needed something to occupy my mind after-hours. That became coding time. I started very gradually learning JavaScript from The Complete Web Development Bootcamp by The App Brewery. After seeing that I was able to create some cool things all on my computer, I made the difficult decision to take a break from healthcare to to study coding full time so I could one day address the inefficiencies I experienced and help healthcare workers use their time more efficiently to better serve patients.
 
-## Tech Stack
+### Technologies
 <p>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML badge"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS badge"/>
@@ -12,9 +12,13 @@ I'm a Registered Dietitian 👩🏻‍⚕️ and Full-stack Software Engineer �
 <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express badge"/>
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL badge"/>
 <img src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge" alt="Sequelize badge"/>  
-<img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React badge"/>
-<img src="https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=for-the-badge" alt="React Native"/>
+<img src="https://img.shields.io/badge/-React.js-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React.js badge"/>
 <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="Redux badge"/>
+<img src="https://img.shields.io/badge/-React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React Native"/>
+<img src="https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=for-the-badge" alt="Expo badge"/>
+<img src="https://img.shields.io/badge/-ngrok-white?logo=ngrok&logoColor=1F1E37&style=for-the-badge" alt="Ngrok badge"/> 
+<img src="https://img.shields.io/badge/-Flutter-white?logo=flutter&logoColor=02569B&style=for-the-badge" alt="Flutter badge"/>
+<img src="https://img.shields.io/badge/-Dart-white?logo=dart&logoColor=0175C2&style=for-the-badge" alt="Dart badge"/>
 <img src="https://img.shields.io/badge/-Firebase-059BE5?logo=firebase&logoColor=FFCA28&style=for-the-badge" alt="Firebase"/>
 <img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" alt="Markdown badge"/>
 <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" alt="Heroku badge"/>
@@ -25,9 +29,8 @@ I'm a Registered Dietitian 👩🏻‍⚕️ and Full-stack Software Engineer �
 </p>
 
 
-## Extras
+### Extras
 - 🎓 The Grace Hopper Program at Fullstack Academy
-- 🔭 I’m working on future developments on my pinned repositories, specifically 🐾 Pawsome and Diet_Calc 
 - 🌱 I’m currently learning Algorithms, Data Structures, and OOP
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/brenda-wong-rd/)
 - 📝 Review my [resume](https://drive.google.com/file/d/1BaRhzqbwsH514aXGSjUuE9GH82QXCDUH/view?usp=sharing)
