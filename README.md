@@ -1,6 +1,6 @@
 ## Hey, I'm Brenda ⭐
 <p>I'm a Registered Dietitian 👩🏻‍⚕️ and Full-stack Software Engineer 👩🏻‍💻 </p>
-While working in healthcare during the pandemic, I needed something to occupy my mind after-hours. That became coding time. I started very gradually learning JavaScript from [The Complete Web Development Bootcamp by The App Brewery](https://www.appbrewery.co/p/web-development-course-resources/). After seeing that I was able to create some cool things all on my computer, I made the difficult decision to take a break from healthcare to to study coding full time so I could one day address the inefficiencies I experienced and help healthcare workers use their time more efficiently to better serve patients. I have graduated from The Grace Hopper Program at Fullstack Academy and ready to jump into a new career as a Software Engineer!
+While working in healthcare during the pandemic, I needed something to occupy my mind after-hours. That became coding time. I started very gradually learning JavaScript from The Complete Web Development Bootcamp by The App Brewery. After seeing that I was able to create some cool things all on my computer, I made the difficult decision to take a break from healthcare to to study coding full time so I could one day address the inefficiencies I experienced and help healthcare workers use their time more efficiently to better serve patients. I have graduated from The Grace Hopper Program at Fullstack Academy and ready to jump into a new career as a Software Engineer!
 
 ## Technologies
 <p>
