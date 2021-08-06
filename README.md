@@ -30,6 +30,7 @@ While working in healthcare during the pandemic, I needed something to occupy my
   <img src="https://img.shields.io/badge/-Jasmine-8A4182?logo=jasmine&logoColor=white&style=for-the-badge" alt="Jasmine badge"/>
   <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="Visual Studio Code badge"/>
   <img src="https://img.shields.io/badge/-Android_Studio-616161?logo=android-studio&logoColor=3DDC84&style=for-the-badge" alt="Android Studio badge"/>
+  <img src="https://img.shields.io/badge/-Atom-1AAF5D?logo=atom&logoColor=white&style=for-the-badge" alt="Atom badge"/>
 </p>
 
 ## Extras
