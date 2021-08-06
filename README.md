@@ -2,7 +2,7 @@
 <p>I'm a Registered Dietitian 👩🏻‍⚕️ and Full-stack Software Engineer 👩🏻‍💻 </p>
 While working in healthcare during the pandemic, I needed something to occupy my mind after-hours. That became coding time. I started very gradually learning JavaScript from The Complete Web Development Bootcamp by The App Brewery. After seeing that I was able to create some cool applications all on my computer, I made the difficult decision to take a break from healthcare to to study coding full time so I could one day address the inefficiencies I experienced and help healthcare workers use their time more efficiently to better serve patients. I have graduated from The Grace Hopper Program at Fullstack Academy and ready to jump into a new career as a Software Engineer!
 
-## Technologies
+## Technologies/Tools
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML badge"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS badge"/>
@@ -28,6 +28,8 @@ While working in healthcare during the pandemic, I needed something to occupy my
   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge" alt="Postman badge"/>
   <img src="https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" alt="Mocha badge"/>
   <img src="https://img.shields.io/badge/-Jasmine-8A4182?logo=jasmine&logoColor=white&style=for-the-badge" alt="Jasmine badge"/>
+  <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="Visual Studio Code badge"/>
+  <img src="https://img.shields.io/badge/-Android_Studio-616161?logo=android-studio&logoColor=3DDC84&style=for-the-badge" alt="Android Studio badge"/>
 </p>
 
 ## Extras
