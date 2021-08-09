@@ -42,7 +42,7 @@ While working in healthcare during the pandemic, I needed something to occupy my
 - 📝 Review my [resume](https://drive.google.com/file/d/1BaRhzqbwsH514aXGSjUuE9GH82QXCDUH/view?usp=sharing)
 
 ## Projects
-- [Pawsome](https://github.com/brendawon/peophins-plasma/pawsome-app): A pet care management mobile application that allows pet owners and their caretakers coordinate on tasks for pets. Collaborative effort with a great team ([Anna](https://github.com/av1082), [McKenna](https://github.com/mckennakayyy), and [Rebekkah](https://github.com/rebekkahjou))
+- [Pawsome](https://github.com/peophins-plasmas/pawsome-app): A pet care management mobile application that allows pet owners and their caretakers coordinate on tasks for pets. Collaborative effort with a great team ([Anna](https://github.com/av1082), [McKenna](https://github.com/mckennakayyy), and [Rebekkah](https://github.com/rebekkahjou))
 - [Receipt Hacker](https://github.com/brendawon/receipt-hacker): A receipt scanning mobile application to easily split shared costs among multiple people
 - [Diet Calc](https://github.com/brendawon/diet_calc): A mobile application for clinical dietitians to calculate nutritional needs of patients
 
