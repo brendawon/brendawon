@@ -37,7 +37,7 @@ While working in healthcare during the pandemic, I needed something to occupy my
 
 ## Extras
 - 🎓 The Grace Hopper Program at Fullstack Academy
-- 🌱 I’m currently studying Algorithms, Data Structures, and learning OOP
+- 🌱 I’m currently studying algorithms and data structures and learning OOP
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/brenda-wong-rd/)
 - 📝 Review my [resume](https://drive.google.com/file/d/1BaRhzqbwsH514aXGSjUuE9GH82QXCDUH/view?usp=sharing)
 
