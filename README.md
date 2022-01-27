@@ -1,6 +1,6 @@
 ## Hey, I'm Brenda ⭐
 <p>I'm a Registered Dietitian 👩🏻‍⚕️ and Full-stack Software Engineer 👩🏻‍💻 </p>
-While working in healthcare during the pandemic, I needed something to occupy my mind after-hours. That became coding time. I started very gradually learning JavaScript from The Complete Web Development Bootcamp by The App Brewery. After seeing that I was able to create some cool applications all on my computer, I made the difficult decision to take a break from healthcare to to study coding full time so I could one day address the inefficiencies I experienced and help healthcare workers use their time more efficiently to better serve patients. I have graduated from The Grace Hopper Program at Fullstack Academy and am ready to jump into a new career as a Software Engineer!
+While working in healthcare during the pandemic, I needed something to occupy my mind after-hours. That became coding time. I started very gradually learning JavaScript from The Complete Web Development Bootcamp by The App Brewery. After seeing that I was able to create some cool applications all on my computer, I made the difficult decision to take a break from healthcare to to study coding full time so I could one day address the inefficiencies I experienced and help healthcare workers use their time more efficiently to better serve patients. I have graduated from The Grace Hopper Program at Fullstack Academy and am so thrilled to continue to make a positive impact on healthcare now as a Software Engineer!
 
 ## Technologies/Tools
 <p>
@@ -36,8 +36,8 @@ While working in healthcare during the pandemic, I needed something to occupy my
 </p>
 
 ## Extras
+- 👩🏻‍💻 Software Engineer at Remo Health
 - 🎓 The Grace Hopper Program at Fullstack Academy
-- 🌱 I’m currently studying algorithms and data structures and learning OOP
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/brenda-wong-rd/)
 - 📝 Review my [resume](https://drive.google.com/file/d/1BaRhzqbwsH514aXGSjUuE9GH82QXCDUH/view?usp=sharing)
 
@@ -46,5 +46,5 @@ While working in healthcare during the pandemic, I needed something to occupy my
 - [Receipt Hacker](https://github.com/brendawon/receipt-hacker): A receipt scanning mobile application to easily split shared costs among multiple people
 - [Diet Calc](https://github.com/brendawon/diet_calc): A mobile application for clinical dietitians to calculate nutritional needs of patients
 
-## Github Numbers
-![Brenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendawon&count_private=true&show_icons=true&theme=material-palenight)
+## GitHub Numbers
+[![Brenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendawon&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats#readme)
