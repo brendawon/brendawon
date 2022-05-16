@@ -1,20 +1,24 @@
 ## Hey, I'm Brenda ⭐
 <p>I'm a Registered Dietitian 👩🏻‍⚕️ and Full-stack Software Engineer 👩🏻‍💻 </p>
-While working in healthcare during the pandemic, I needed something to occupy my mind after-hours. That became coding time. I started very gradually learning JavaScript from The Complete Web Development Bootcamp by The App Brewery. After seeing that I was able to create some cool applications all on my computer, I made the difficult decision to take a break from healthcare to to study coding full time so I could one day address the inefficiencies I experienced and help healthcare workers use their time more efficiently to better serve patients. I have graduated from The Grace Hopper Program at Fullstack Academy and am so thrilled to continue to make a positive impact on healthcare now as a Software Engineer!
+While working in healthcare during the pandemic, I needed something to occupy my mind after-hours. That became coding time. I started very gradually learning JavaScript from The Complete Web Development Bootcamp by The App Brewery. After seeing I was able to create some cool applications all on my computer, I made the difficult decision to take a break from healthcare to study coding full time so I could one day address the inefficiencies I experienced and help healthcare workers use their time more efficiently to better serve patients. I have graduated from The Grace Hopper Program at Fullstack Academy and am so thrilled to continue to make a positive impact on healthcare now as a Software Engineer!
 
 ## Technologies/Tools
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML badge"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS badge"/>
+  <img src="https://img.shields.io/badge/-SASS-c69?logo=sass&logoColor=white&style=for-the-badge" alt="SASS badge"/>
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap badge"/>
   <img src="https://img.shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=for-the-badge" alt="JavaScript badge"/>
+  <img src="https://img.shields.io/badge/-TypeScript-white?logo=typescript&logoColor=3077C6&style=for-the-badge" alt="TypeScript badge"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=for-the-badge" alt="Node.js badge"/>
   <img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="NPM badge"/>
   <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express badge"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL badge"/>
+  <img src="https://img.shields.io/badge/-GraphQL-white?logo=graphql&logoColor=E10098&style=for-the-badge" alt="GraphQL badge"/>
   <img src="https://img.shields.io/badge/-Postico-1AABEB?logo=postico&logoColor=white&style=for-the-badge" alt="Postico badge"/>
   <img src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge" alt="Sequelize badge"/>  
   <img src="https://img.shields.io/badge/-React.js-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React.js badge"/>
+  <img src="https://img.shields.io/badge/-Next.js-white?logo=next&logoColor=3077C6&style=for-the-badge" alt="Next.js badge"/>
   <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="Redux badge"/>
   <img src="https://img.shields.io/badge/-React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React Native badge"/>
   <img src="https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=for-the-badge" alt="Expo badge"/>
@@ -26,10 +30,11 @@ While working in healthcare during the pandemic, I needed something to occupy my
   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge" alt="Postman badge"/>
   <img src="https://img.shields.io/badge/-Figma-white?logo=figma&logoColor=F24E1E&style=for-the-badge" alt="Figma Badge"/>
   <img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" alt="Markdown badge"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB badge"/>
-  <img src="https://img.shields.io/badge/-ngrok-white?logo=ngrok&logoColor=1F1E37&style=for-the-badge" alt="Ngrok badge"/> 
-  <img src="https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" alt="Mocha badge"/>
-  <img src="https://img.shields.io/badge/-Jasmine-8A4182?logo=jasmine&logoColor=white&style=for-the-badge" alt="Jasmine badge"/>
+  <img src="https://img.shields.io/badge/-Jest-C63C14?logo=jest&logoColor=white&style=for-the-badge" alt="Jest badge"/>
+<!--   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB badge"/> -->
+<!--   <img src="https://img.shields.io/badge/-ngrok-white?logo=ngrok&logoColor=1F1E37&style=for-the-badge" alt="Ngrok badge"/>  -->
+<!--   <img src="https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" alt="Mocha badge"/> -->
+<!--   <img src="https://img.shields.io/badge/-Jasmine-8A4182?logo=jasmine&logoColor=white&style=for-the-badge" alt="Jasmine badge"/> -->
   <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="Visual Studio Code badge"/>
   <img src="https://img.shields.io/badge/-Android_Studio-616161?logo=android-studio&logoColor=3DDC84&style=for-the-badge" alt="Android Studio badge"/>
   <img src="https://img.shields.io/badge/-Atom-1AAF5D?logo=atom&logoColor=white&style=for-the-badge" alt="Atom badge"/>
