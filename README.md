@@ -51,5 +51,5 @@ While working in healthcare during the pandemic, I needed something to occupy my
 - [Receipt Hacker](https://github.com/brendawon/receipt-hacker): A receipt scanning mobile application to easily split shared costs among multiple people
 - [Diet Calc](https://github.com/brendawon/diet_calc): A mobile application for clinical dietitians to calculate nutritional needs of patients
 
-## GitHub Numbers
-[![Brenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendawon&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats#readme)
+<!-- ## GitHub Numbers
+[![Brenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendawon&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats#readme) -->
