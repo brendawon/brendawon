@@ -41,7 +41,7 @@ While working in healthcare during the pandemic, I needed something to occupy my
 </p>
 
 ## Extras
-- 👩🏻‍💻 Software Engineer at Remo Health
+- 👩🏻‍💻 Founding Software Engineer at Remo Health
 - 🎓 The Grace Hopper Program at Fullstack Academy
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/brenda-wong-rd/)
 - 📝 Review my [resume](https://drive.google.com/file/d/1BaRhzqbwsH514aXGSjUuE9GH82QXCDUH/view?usp=sharing)
