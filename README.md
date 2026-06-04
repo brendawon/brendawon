@@ -46,7 +46,6 @@
 - 👩🏻‍💻 Founding Software Engineer at Remo Health
 - 🎓 The Grace Hopper Program at Fullstack Academy
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/brenda-wong-rd/)
-- 📝 Review my [resume](https://drive.google.com/file/d/1BaRhzqbwsH514aXGSjUuE9GH82QXCDUH/view?usp=sharing)
 
 ## Projects
 - [Pawsome](https://github.com/peophins-plasmas/pawsome-app): A pet care management mobile application that allows pet owners and their caretakers coordinate on tasks for pets. Collaborative effort with a great team ([Anna](https://github.com/av1082), [McKenna](https://github.com/mckennakayyy), and [Rebekkah](https://github.com/rebekkahjou))
